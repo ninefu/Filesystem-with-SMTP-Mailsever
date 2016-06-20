@@ -1,5 +1,5 @@
 # Log Structured File System with SMTP Mail Server
-This is a course project from CS 4410 Operation Systems. It includes a log structured filesystem (LFS) and an mail server that supports mail delivery under SMTP protocol and using socket-oriented network programming.
+This is a course project from CS 4410 Operation Systems. It includes a log structured filesystem (LFS) and a mail server that supports mail delivery under Simple Mail Transfer Protocol (SMTP) and using socket-oriented network programming.
 
 * Implementation for the LFS:
 	- Sync inode map to the segment
